@@ -5,7 +5,7 @@ true
       false
     elsif board[index] == "X" or "0"
     true
-  
+
 
   end
 end

@@ -1,9 +1,5 @@
 def position_taken(board, index)
-  if position_taken == 0
-     false
-   else true
+  if position_taken == ["X","O"]
+    true
   end
-end# code your #position_taken? method here!
-
-
-index = [" "," "," "," "," "," "," "," "," "]
+end 
